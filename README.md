@@ -20,7 +20,7 @@ This repository contains SQL queries and data analysis scripts for working with 
 
 1. Clone this repository:
 ```bash
-git clone [sql_pandas]
+git clone sql_pandas
 ```
 
 2. Install required packages using requirements.txt:
@@ -45,17 +45,14 @@ The Python scripts and notebooks provide:
 ## Visualization Examples
 
 ### 1. Vehicle Brand Distribution
-![Vehicle Brand Distribution](# Distribution of Vehicle Brands.png)
 - Bar chart showing the distribution of vehicle brands
 - Includes percentage and count for each brand
 
 ### 2. Vehicle Segment Analysis
-![Vehicle Segment Distribution](#Vehicle Distribution by Segments.png)
 - Pie chart showing the distribution of vehicle segments
 - Provides insights into the most popular vehicle categories
 
 ### 3. Payment Methods Distribution
-![Payment Methods Distribution](#Distribution of Payment Methods.png)
 - Visual representation of different payment methods used
 - Helps understand customer payment preferences
 

@@ -20,7 +20,7 @@ This repository contains SQL queries and data analysis scripts for working with 
 
 1. Clone this repository:
 ```bash
-git clone sql_pandas
+git clone https://github.com/utku9012/sql_pandas.git
 ```
 
 2. Install required packages using requirements.txt:
